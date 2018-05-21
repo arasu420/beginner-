@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    char a;
+    char b;
     int n;
     cin>>n;
-    a=n+96;
-    cout<<a;
+    b=n+96;
+    cout<<b;
     return 0;
 }
